@@ -7,4 +7,4 @@ and _this_ is **bar**
 together they make
 **foobar**
 
-[robertkruk.github.io](robertkruk.github.io)
+[robertkruk.github.io](https://robertkruk.github.io)
